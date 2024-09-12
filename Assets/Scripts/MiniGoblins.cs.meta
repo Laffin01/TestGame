@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7c9e93dd99289a44be6bab1cc02ca4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AnimatorController: {instanceID: 0}
+  - Agent: {instanceID: 0}
+  - player: {instanceID: 0}
+  - Enemie: {fileID: 4570157599844447218, guid: 4c34fad82d8582f40a00c43d3128284a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
